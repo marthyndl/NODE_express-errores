@@ -1,0 +1,24 @@
+{
+  "name": "NODE_express-errores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthyndl/NODE_express-errores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marthyndl/NODE_express-errores/issues"
+  },
+  "homepage": "https://github.com/marthyndl/NODE_express-errores#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yup": "^0.26.10"
+  }
+}
